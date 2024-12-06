@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733512656 source:c:\users\user\desktop\kasiazad\zad2\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+
